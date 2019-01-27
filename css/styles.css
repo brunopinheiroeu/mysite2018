@@ -125,11 +125,14 @@ hr{
 .bottom-container{
   background-color: #105e62;
   padding: 50px 0 20px 0;
+  margin: auto;
 }
 .copyright{
   color: #a2eae2;
   font-size: 0.75rem;
   padding: 20px 0;
+  width: 40%;
+  margin: auto;
 }
 .footer-link{
   margin: 0 20px;
